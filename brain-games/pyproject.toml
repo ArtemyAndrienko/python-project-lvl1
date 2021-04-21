@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "_artemy_brain_games"
+version = "0.7.7"
+description = "Brain games project (education - hexlet"
+authors = ["_artemy <artemy.andrienko@gmail.com>"]
+repository = "https://github.com/ArtemyAndrienko/python-project-lvl1"
+license = "MIT"
+packages = [
+    { include = "brain_games" },
+]
+classifiers = [
+    "Topic :: Education"
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prompt = "^0.4.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+wemake-python-styleguide = "^0.15.2"
+
+[tool.poetry.scripts]
+brain-games = "brain_games.scripts.brain_games:main"
+brain-even = "brain_games.scripts.brain_even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
+brain-gcd = "brain_games.scripts.brain_gcd:main"
+brain-progression = "brain_games.scripts.brain_progression:main"
+brain-prime = "brain_games.scripts.brain_prime:main"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
