@@ -124,3 +124,6 @@ dmypy.json
 
 .vscode/
 .DS_Store
+
+# JetBrains
+.idea
