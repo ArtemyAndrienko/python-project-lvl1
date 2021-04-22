@@ -17,6 +17,8 @@ Available commands:
 ![Github Actions]https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/github-actions/badge.svg
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 
+[![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
+
 ## How to install
 
 Required: Python 3.

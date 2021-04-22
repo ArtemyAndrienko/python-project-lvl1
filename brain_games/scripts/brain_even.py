@@ -1,16 +1,16 @@
-#!/usr/bin/env python
-"""
-    description: Brain games welcome game.
-    author: _artemy
-"""
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-# from brain_games.engine import run
+"""Brain even game."""
+
+from brain_games.engine import run
+from brain_games.games import brain_even
 
 
 def main():
-    """Welcome user without running a game."""
-    # run()
-    print('Welcome to the Brain Games!')
+    """Run even game."""
+    run(brain_even)
+
 
 if __name__ == '__main__':
     main()

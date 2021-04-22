@@ -1,13 +1,16 @@
 #!/usr/bin/env python
 
-"""description: Brain games welcome game.
+"""description: Brain games - make a calcultaion.
     author: _artemy"""
+
+from brain_games.engine import run
+from brain_games.games import brain_calc
 
 
 def main():
-    """Welcome user without running a game."""
-    # run()
-    print('Welcome to the Brain Games!')
+    """Run calculate game."""
+    run(brain_calc)
+
 
 if __name__ == '__main__':
     main()

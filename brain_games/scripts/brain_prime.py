@@ -1,16 +1,18 @@
 #!/usr/bin/env python
 """
-    description: Brain games welcome game.
+    description: Brain prime game.
     author: _artemy
 """
 
-# from brain_games.engine import run
+
+from brain_games.engine import run
+from brain_games.games import brain_prime
 
 
 def main():
-    """Welcome user without running a game."""
-    # run()
-    print('Welcome to the Brain Games!')
+    """Run prime game."""
+    run(brain_prime)
+
 
 if __name__ == '__main__':
     main()
