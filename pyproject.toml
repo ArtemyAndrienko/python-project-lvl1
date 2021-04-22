@@ -19,6 +19,7 @@ prompt = "^0.4.1"
 [tool.poetry.dev-dependencies]
 pytest = "^6.2"
 wemake-python-styleguide = "^0.15.2"
+flake8 = "^3.9.1"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"

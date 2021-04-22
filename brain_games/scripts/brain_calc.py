@@ -1,10 +1,7 @@
 #!/usr/bin/env python
-"""
-    description: Brain games welcome game.
-    author: _artemy
-"""
 
-# from brain_games.engine import run
+"""description: Brain games welcome game.
+    author: _artemy"""
 
 
 def main():
