@@ -4,13 +4,11 @@
     author: _artemy
 """
 
-# from brain_games.engine import run
-
+from brain_games import cli
 
 def main():
-    """Welcome user without running a game."""
-    # run()
-    print('Welcome to the Brain Games!')
+    cli.run()
+
 
 if __name__ == '__main__':
     main()
