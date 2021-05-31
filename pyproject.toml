@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "artemy64-brain-games"
-version = "0.1.0"
+version = "0.9.3"
 description = "Brain Games Education Project"
 authors = ["_artemy <artemy.andrienko@gmail.com>"]
 repository = "https://github.com/ArtemyAndrienko/python-project-lvl1"

@@ -30,25 +30,6 @@ pip3 install --extra-index-url https://test.pypi.org/simple/ artemy64-brain-game
 ```
 
 
-After pip-installation all commands available directly.
-
-Or clone via Github.
-
-If Poetry already installed:
-
-```bash
-git clone https://github.com/ArtemyAndrienko/python-project-lvl1/
-poetry install
-```
-
-and run any commands after:
-
-```bash
-brain-games
-brain-even
-<command>
-```
-
 
 ## How play
 
