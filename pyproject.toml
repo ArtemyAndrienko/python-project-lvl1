@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "brain-games-hexlet"
+name = "artemy64-brain-games"
 version = "0.1.0"
 description = "Brain Games Education Project"
 authors = ["_artemy <artemy.andrienko@gmail.com>"]
