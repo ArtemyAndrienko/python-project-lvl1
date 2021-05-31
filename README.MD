@@ -26,7 +26,7 @@ Required: Python 3.
 From test.pypi.org run command:
 
 ```bash
-nop
+pip3 install --extra-index-url https://test.pypi.org/simple/ artemy64-brain-games
 ```
 
 
@@ -38,15 +38,15 @@ If Poetry already installed:
 
 ```bash
 git clone https://github.com/ArtemyAndrienko/python-project-lvl1/
-petry install
+poetry install
 ```
 
-and run any commands after poetry run:
+and run any commands after:
 
 ```bash
-poetry run brain-games
-poetry run brain-even
-poetry run <command>
+brain-games
+brain-even
+<command>
 ```
 
 
@@ -54,18 +54,20 @@ poetry run <command>
 
 To start Brain Even game:
 
-
+[![asciicast](https://asciinema.org/a/tE5NeoFGrQynUHYW7rA2EfIbl.svg)](https://asciinema.org/a/tE5NeoFGrQynUHYW7rA2EfIbl)
 
 To start Brain Calculation game:
 
-
+[![asciicast](https://asciinema.org/a/ibNKak8AaROWwRLdGnFTSTaRo.svg)](https://asciinema.org/a/ibNKak8AaROWwRLdGnFTSTaRo)
 
 To start Brain Greatest common divisor:
 
-
+[![asciicast](https://asciinema.org/a/U24uYdqiojrO51K8KnMaTVJbw.svg)](https://asciinema.org/a/U24uYdqiojrO51K8KnMaTVJbw)
 
 To start Brain Progression:
 
-
+[![asciicast](https://asciinema.org/a/TJP6GBipY2DurWkwwGkEqZMy1.svg)](https://asciinema.org/a/TJP6GBipY2DurWkwwGkEqZMy1)
 
 To Brain Prime:
+
+[![asciicast](https://asciinema.org/a/qvfPTJhOvakmG27MGgQ4bDlim.svg)](https://asciinema.org/a/qvfPTJhOvakmG27MGgQ4bDlim)
