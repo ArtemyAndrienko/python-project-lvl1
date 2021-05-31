@@ -1,7 +1,7 @@
 ### Brain Games (education):
 ![Actions Status](/workflows/hexlet-check/badge.svg)
 
-simple console games.
+Simple console games.
 
 Available commands:
 
