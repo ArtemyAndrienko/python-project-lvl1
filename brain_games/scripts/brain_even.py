@@ -1,7 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
 
-"""Brain even game."""
+"""
+    description: Brain even game.
+    author: _artemy
+"""
+
 
 from brain_games.engine import run
 from brain_games.games import brain_even

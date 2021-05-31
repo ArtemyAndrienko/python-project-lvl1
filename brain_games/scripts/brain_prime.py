@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 """
     description: Brain prime game.
     author: _artemy

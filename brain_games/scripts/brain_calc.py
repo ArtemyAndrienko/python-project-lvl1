@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
-"""description: Brain games - make a calcultaion.
-    author: _artemy"""
+"""
+    description: Brain games - Brain calc game.
+    author: _artemy
+"""
+
 
 from brain_games.engine import run
 from brain_games.games import brain_calc

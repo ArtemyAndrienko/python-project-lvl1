@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 """
     description: Brain gcd game.
     author: _artemy

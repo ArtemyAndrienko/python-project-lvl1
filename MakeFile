@@ -18,3 +18,5 @@ lint:
 
 package-install:
 	python -m pip install dist/*.whl
+
+.PHONY: install lint build publish
