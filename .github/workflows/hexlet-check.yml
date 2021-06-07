@@ -1,6 +1,6 @@
 name: hexlet-check
 on:
-  [push]:
+  push:
     branches:
       - master
       - main
