@@ -21,7 +21,7 @@ Available commands:
 
 ## How to install
 
-Required: Python 3.
+Required: Python 3.5.
 
 From test.pypi.org run command:
 
