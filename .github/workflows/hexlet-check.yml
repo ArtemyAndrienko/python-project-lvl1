@@ -4,8 +4,6 @@ on:
     branches:
       - master
       - main
-      - workflow2
-      - fix4
 
 jobs:
   build:
