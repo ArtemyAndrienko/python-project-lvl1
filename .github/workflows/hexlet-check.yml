@@ -1,9 +1,11 @@
 name: hexlet-check
-
 on:
-  push:
+  [push]:
     branches:
       - master
+      - main
+      - workflow2
+      - fix4
 
 jobs:
   build:
