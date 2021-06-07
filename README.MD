@@ -1,5 +1,5 @@
 ### Brain Games (education):
-![Actions Status](/workflows/hexlet-check/badge.svg)
+[![hexlet-check](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml)
 
 Simple console games.
 
@@ -16,7 +16,6 @@ Available commands:
 [![Build Status](https://travis-ci.org/ArtemyAndrienko/python-project-lvl1.svg?branch=master)](https://travis-ci.org/ArtemyAndrienko/python-project-lvl1) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Github Actions]https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/github-actions/badge.svg
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
-[![hexlet-check](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 
 ## How to install
