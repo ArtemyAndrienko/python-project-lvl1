@@ -1,6 +1,8 @@
 ### Brain Games (education):
 [![hexlet-check](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml)
 [![Python CI](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/pyci.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/pyci.yml)
+
+
 Simple console games.
 
 Available commands:
