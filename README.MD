@@ -1,5 +1,6 @@
 ### Brain Games (education):
 [![hexlet-check](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/hexlet-check.yml)
+[![PyCI](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/pyci.yml/badge.svg)](https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/pyci.yml)
 
 Simple console games.
 
@@ -14,7 +15,6 @@ Available commands:
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/163001936ea074e01d68/maintainability)](https://codeclimate.com/github/ArtemyAndrienko/python-project-lvl1/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/ArtemyAndrienko/python-project-lvl1/test_coverage) 
 [![Build Status](https://travis-ci.org/ArtemyAndrienko/python-project-lvl1.svg?branch=master)](https://travis-ci.org/ArtemyAndrienko/python-project-lvl1) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![Github Actions]https://github.com/ArtemyAndrienko/python-project-lvl1/actions/workflows/github-actions/badge.svg
 ![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 
