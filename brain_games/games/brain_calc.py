@@ -4,11 +4,7 @@ from operator import add, mul, sub
 from random import choice, randint
 
 DESCRIPTION = 'What is the result of the expression?'
-OPERATIONS = [
-                ('+', add),
-                ('-', sub),
-                ('*', mul)
-             ]
+OPERATIONS = [('+', add), ('-', sub), ('*', mul)]
 
 
 def make_question():
