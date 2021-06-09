@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# #!/usr/bin/python3
 
 """Description: brain prime game."""
 
