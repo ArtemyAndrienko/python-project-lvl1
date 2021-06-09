@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
+
 """Description: brain prime game."""
 
 from brain_games.engine import run
