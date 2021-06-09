@@ -2,7 +2,9 @@ from brain_games import cli
 
 MAX_ROUNDS = 3
 
+
 def run(game):
+    """Runner for all games."""
     cli.welcome()
     print(game.DESCRIPTION, '\n')
     name = cli.ask_name()

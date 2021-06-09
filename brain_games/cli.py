@@ -7,27 +7,33 @@ import prompt
 
 
 def welcome():
-    """Print welcome message"""
+    """Print welcome message."""
     print('Welcome to the Brain Games!')
 
 
 def ask_name():
-    """Asks user name. :return: username """
+    """Asks user name.
+
+    :returns: username
+    """
     return prompt.string('May I have your name? ')
 
 
 def greet(name):
-    """User greeting"""
+    """User greetings."""
     print('Hello, {}!'.format(name))
 
 
 def get_answer():
-    """:return answer"""
+    """Asks answer.
+
+    :returns answer
+    """
     return prompt.string('Your answer: ')
 
 
 def run():
-    """Main method. Combine all methods together"""
+    """This is a main method. Combine all methods together."""
     welcome()
     print()
     greet(ask_name())

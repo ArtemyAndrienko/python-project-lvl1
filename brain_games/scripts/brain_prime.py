@@ -1,10 +1,5 @@
 #!/usr/bin/env python
-
-"""
-    description: Brain prime game.
-    author: _artemy
-"""
-
+"""Description: brain prime game."""
 
 from brain_games.engine import run
 from brain_games.games import brain_prime

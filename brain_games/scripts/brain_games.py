@@ -1,14 +1,13 @@
 #!/usr/bin/env python
-"""
-    description: Brain games welcome game.
-    author: _artemy
-"""
+
+"""Description: brain games welcome game."""
 
 
 from brain_games import cli
 
 
 def main():
+    """Is main method and it calls cli."""
     cli.run()
 
 
